@@ -1,0 +1,19 @@
+{
+  "name": "react-application",
+  "version": "1.0.0",
+  "description": "Testing the react framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elialombardi/react-application.git"
+  },
+  "author": "Elia Lombardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elialombardi/react-application/issues"
+  },
+  "homepage": "https://github.com/elialombardi/react-application#readme"
+}
